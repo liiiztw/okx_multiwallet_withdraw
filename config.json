@@ -1,0 +1,10 @@
+{
+    "token": "USDC",
+    "network": "USDC-Optimism",
+    "amount": 1,
+    "random_amount":true,
+    "delay": { "min": 3, "max": 5 },
+    "key":"",
+    "secret":"",
+    "passphrase":""
+}
