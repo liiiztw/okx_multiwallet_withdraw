@@ -3,9 +3,9 @@ Just for 阿彬168
 
 ## Give me a coffe 
 
-metamask wallet
+Polygon USDT
 ```
-0x9FedBBC14302838837284595504Ff15487A5ac85
+0xDDaAE2FF362928986A103DA132a3771e15117DD5
 ```
 
 ## Description
@@ -25,7 +25,7 @@ Go to okx.com and get the api key, set multi-wallet addresses to whitelist.
     "delay": { "min": 3, "max": 5 },
     "key":"",
     "secret":"",
-    "passphrase":"$RFV"
+    "passphrase":""
 }
 ```
 1. edit token which you wana withdraw
